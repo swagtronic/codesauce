@@ -4,10 +4,10 @@ int main(){
     int num;
     cout << "What is your number? ";
     cin >> num;
-    if num%2 = 1 {
-        cout << "Your number is odd";
-        else {
-            cout << "Your number is even";
-        }
+    if (1 == num%2) {
+        cout << "Your number is odd" << endl;
     }
+        else {
+            cout << "Your number is even" << endl;
+        }
 }

@@ -7,5 +7,5 @@ int main (){
     cin >> base;
     cout << "What is the height of the triangle? ";
     cin >> height;
-    cout << "The area of the triangle is " << (base*height)/2;
+    cout << "The area of the triangle is " << (base*height)/2 << endl;
 }
