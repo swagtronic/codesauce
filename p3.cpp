@@ -6,5 +6,5 @@ int main(){
     double num3;
     cout << "Enter your numbers ";
     cin >> num1 >> num2 >> num3;
-    cout << "The average is " << (num1+num2+num3)/3 << endl;
+    cout << "The average is " << (num1+num2+num3)/3.0 << endl;
 }
